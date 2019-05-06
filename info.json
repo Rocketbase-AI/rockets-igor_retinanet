@@ -1,9 +1,9 @@
 {
-    "builder": "igor",
-    "model": "retinanet",
+    "username": "igor",
+    "modelName": "retinanet",
     "family": "image_object_detection",
     "parent": null,
-    "dataset": "coco80",
+    "trainingDataset": "coco80",
     "isTrainable": false,
     "isPrivate": false,
     "blueprint": [
